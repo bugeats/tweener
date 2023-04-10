@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tweener/static/css/main.adde7c50.css",
-    "main.js": "/tweener/static/js/main.92914e45.js",
+    "main.js": "/tweener/static/js/main.f53c7c82.js",
     "index.html": "/tweener/index.html",
     "main.adde7c50.css.map": "/tweener/static/css/main.adde7c50.css.map",
-    "main.92914e45.js.map": "/tweener/static/js/main.92914e45.js.map"
+    "main.f53c7c82.js.map": "/tweener/static/js/main.f53c7c82.js.map"
   },
   "entrypoints": [
     "static/css/main.adde7c50.css",
-    "static/js/main.92914e45.js"
+    "static/js/main.f53c7c82.js"
   ]
 }
